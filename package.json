@@ -1,0 +1,25 @@
+{
+  "name": "loopify.x",
+  "version": "1.0.0",
+  "description": "Simulating the event loop of the browser and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickyes/loopify.git"
+  },
+  "keywords": [
+    "event loop",
+    "browser",
+    "node",
+    "libuv"
+  ],
+  "author": "Ricky <0x19951125@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rickyes/loopify/issues"
+  },
+  "homepage": "https://github.com/rickyes/loopify#readme"
+}
